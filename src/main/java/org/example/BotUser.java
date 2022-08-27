@@ -65,7 +65,7 @@ public class BotUser {
                 "qiwi_number='" + qiwi_number + '\'' +
                 ", humo_number='" + humo_number + '\'' +
                 ", uzcard_number='" + uzcard_number + '\'' +
-                ", step='" + step_user + '\'' +
+                ", step_user='" + step_user + '\'' +
                 ", check=" + check +
                 '}';
     }
