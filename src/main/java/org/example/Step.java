@@ -26,7 +26,6 @@ public class Step {
         this.CONVERT_UZS = CONVERT_UZS;
         this.CHECK = CHECK;
         this.CONVERT_RUB = CONVERT_RUB;
-        this.COURSE_INFO = COURSE_INFO;
         this.USER_INFO = USER_INFO;
     }
 
@@ -64,10 +63,6 @@ public class Step {
 
     public String getCONVERT_RUB() {
         return CONVERT_RUB;
-    }
-
-    public String getCOURSE_INFO() {
-        return COURSE_INFO;
     }
 
     public String getUSER_INFO() {

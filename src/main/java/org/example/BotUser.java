@@ -1,9 +1,9 @@
 package org.example;
 
 public class BotUser {
-    private String qiwi_number;
-    private String humo_number;
-    private String uzcard_number;
+    private String qiwi_number="o'rnatilmagan!";
+    private String humo_number="o'rnatilmagan!";
+    private String uzcard_number="o'rnatilmagan!";
     private String step_user;
 
     private long check;
